@@ -1,0 +1,28 @@
+.colour{
+    color: white;
+    background-color: rgb(156, 194, 20);
+}
+#green{
+    background-color: rgb(156, 194, 20) ;
+}
+.para{
+    background-color: rgb(156, 194, 20) ;
+}
+a{
+    color: white;
+}
+
+table {
+    width: 66%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #9e9c24;
+text-align: center;
+}
